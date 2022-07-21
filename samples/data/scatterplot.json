@@ -1,0 +1,49 @@
+{
+    "x": "GDP per capita",
+    "y": "Life Expectancy",
+    "size": "Population",
+    "countries": [
+        {
+            "country": "United States",
+            "income": 59939,
+            "life_exp": 78.86,
+            "Population": 329064917
+        },
+        {
+            "country": "United Kingdom",
+            "income": 39532,
+            "life_exp": 81.32,
+            "Population": 67530161
+        },
+        {
+            "country": "Bolivia",
+            "income": 3351,
+            "life_exp": 71.51,
+            "Population": 11513102
+        },
+        {
+            "country": "Sudan",
+            "income": 2879,
+            "life_exp": 65.31,
+            "Population": 43850121
+        },
+        {
+            "country": "Brazil",
+            "income": 9881,
+            "life_exp": 75.88,
+            "Population": 211049519
+        },
+        {
+            "country": "China",
+            "income": 8612,
+            "life_exp": 76.91,
+            "Population": 1433783692
+        },
+        {
+            "country": "Pakistan",
+            "income": 1921,
+            "life_exp": 67.27,
+            "Population": 216565317
+        }
+    ]
+}
